@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-hgp
   LOCATION: uksouth
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 0affc60c-af51-4696-ba52-44ab46281b25
   WEBAPP-NAME: eshoponweb-webapp-hgp123
 
 
